@@ -19,8 +19,8 @@ Using `128 bit AES` encryption with python's `Crypto` module:snake:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run the program as `python crypter.py`
 
-* Press `D` for encryption
-* Enter the secret decryption key (you remember it, right? :open_mouth:)
+* Press `D` for decryption
+* Enter the secret key which you used for encryption (you remember it, right? :open_mouth:)
 * press `y` to delete encrypted files after decryption
   <br/>or press `n` to be on safer side and delete the files afterwards manually
 * Choose the folder to start decryption
