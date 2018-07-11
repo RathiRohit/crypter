@@ -13,7 +13,7 @@ Using `128 bit AES` encryption with python's `Crypto` module:snake:
 * press `y` to delete original files after encryption
   <br/>or press `n` to be on safer side and delete the files afterwards manually
 * Choose the folder to start encryption (Choose the folder correctly or you might accidentally delete wrong files:hushed:)
-* and your files are safe from prying eyes:sunglasses:
+* and your files are safe from the prying eyes:sunglasses:
 
 #### Decrypt files:
 
