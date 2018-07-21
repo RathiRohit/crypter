@@ -1,4 +1,5 @@
 > No matter who you are, every day of your life, you're sitting in a database just ready to be looked at.<br/>**- Edward Snowden**
+
 # crypter
 Simple python program to encrypt:closed_lock_with_key: & decrypt:unlock: confidential and important files inside a folder recursively :)
 <br/>
