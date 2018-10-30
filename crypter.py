@@ -63,6 +63,7 @@ def startEncrypter(password, choice):
                 os.remove(x[0]+'/'+filename)
 
 
+'''Start decryption'''
 def startDecrypter(password, choice):
     Tk().withdraw()
     dirpath = askdirectory()
