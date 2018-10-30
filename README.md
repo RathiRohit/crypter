@@ -16,7 +16,7 @@ Using `128 bit AES` encryption with python's `Crypto` module:snake:
 * Choose the folder to start encryption (Choose the folder correctly or you might accidentally delete wrong files:hushed:)
 * and your files are safe from the prying eyes:sunglasses:
 
-#### Decrypt files:
+#### :unlock: Decrypt files:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run the program as `python crypter.py`
 
