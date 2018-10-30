@@ -51,7 +51,7 @@ def decrypt_file(key, in_filename, out_filename=None, chunksize=24*1024):
 
             outfile.truncate(origsize)
 
-
+'''Start encryption'''
 def startEncrypter(password, choice):
     Tk().withdraw()
     dirpath = askdirectory()
