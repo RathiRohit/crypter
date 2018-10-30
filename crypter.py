@@ -74,7 +74,7 @@ def startDecrypter(password, choice):
             if choice=='y' or choice=='Y':
                 os.remove(x[0]+'/'+filename)
 
-
+'''Menu'''
 print('Choose option:\nE : Encrypt\nD : Decrypt\nCtrl+C : Exit\n\nOption:\n')
 cmd = raw_input()
 if cmd=='E':
