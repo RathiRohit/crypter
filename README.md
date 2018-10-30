@@ -5,7 +5,7 @@ Simple python program to encrypt:closed_lock_with_key: & decrypt:unlock: confide
 <br/>
 Using `128 bit AES` encryption with python's `Crypto` module:snake:
 
-#### Encrypt files:
+#### :closed_lock_with_key: Encrypt files:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run the program as `python crypter.py`
 
